@@ -22,13 +22,22 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Department of Geosciences (IG), UiT – The Arctic University of Norway",
+      "position": "Researcher, WP Leader",
+      "url": "https://site.uit.no/eman7/",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "EMAN7 – Environmental impact of methane seepage and sub-seabed characterization at LoVe-Node 7",
       "highlights": ["Relativity"]
+    },
+    {
+      "name": "UiT- IG, CAGE - Centre for Arctic Gas Hydrate, Environment and Climate",
+      "position": "Researcher, PhD Candidate",
+      "url": "https://site.uit.no/cage/",
+      "startDate": "2022",
+      "endDate": "Present",
+      "summary": "Thesis title: Biogeochemistry of dissolved organic matter in Arctic Ocean waters charged with methane",
+      "url": "https://munin.uit.no/handle/10037/27296",
     }
   ],
   "volunteer": [
