@@ -2,31 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Muhammed Fatih Sert
+    - name: Current address
+      value: Oslo / Norway
     - name: Languages
-      value: English, German
+      value: Turkish, English, Norwegian
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: UiT – The Arctic University of Norway | Department of Geosciences (IG) 
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      Biogeochemistry of dissolved organic matter in Arctic Ocean waters charged with methane
+        
+    - title: MSc
+      institution: Middle East Technical University (METU) | Institute of Marine Sciences (IMS)
+      year: 2010
       description:
-        - Description 1.
-        - Description 2.
+        - Chemical oceanograpy
+        - Marine analytical chemistry
 
 - title: Experience
   type: time_table
