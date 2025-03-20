@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD</a>. Marine biogeochemist. 
+subtitle: PhD. Marine biogeochemist. 
 
 profile:
   align: right
