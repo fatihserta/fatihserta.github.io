@@ -1,0 +1,97 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Muhammed Fatih Sert
+    - name: Current address
+      value: Oslo / Norway
+    - name: Languages
+      value: Turkish, English, Norwegian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: UiT – The Arctic University of Norway | Department of Geosciences (IG) 
+      year: 2022
+             
+    - title: MSc
+      institution: Middle East Technical University (METU) | Institute of Marine Sciences (IMS) | Chemical Oceanography
+      year: 2010
+        
+        
+    - title: BS
+      institution: Middle East Technical University (METU) | Department Of Chemistry
+      year: 2007
+      
+        
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Researcher & WP Leader
+      institution: UiT-The Arctic University of Norway
+      year: 2022 - Present
+      description:
+        - EMAN7 – Environmental impact of methane seepage and sub-seabed characterization at LoVe-Node 7 <a href="https://site.uit.no/eman7/"</a>
+        
+    - title: PhD Candidate
+      institution: UiT-The Arctic University of Norway
+      year: 2017-2022
+      description:
+        - Thesis | Biogeochemistry of dissolved organic matter in Arctic Ocean waters charged with methane <a href="https://munin.uit.no/handle/10037/27296"</a>
+
+    - title: Research assistant
+      institution: Bogazici University, Istanbul, Turkey.
+      year: 2011-2017
+      description:
+      - Environmental technologies for removal of endocrine disruptors
+      - Interactive learning models for anthropogenic climate change and global carbon cycle with a system dynamic approach
+      
+    - title: Scholar
+      institution: Bermuda Institute of Ocean Sciences, NF-POGO
+      year: 2010-2011
+      description:
+      - Determination of biological controls on carbon, nitrogen, and phosphorus in particulate organic matter in the Sargasso Sea, Atlantic Ocean
+    
+    - title: Project assistant
+      institution: METU, IMS
+      year: 2007-2010
+      description:
+      - EU-FP7; Southern European Seas; Assessing and Modelling Ecosystem changes
+
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
