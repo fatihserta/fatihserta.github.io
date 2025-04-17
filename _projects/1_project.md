@@ -2,7 +2,7 @@
 layout: page
 title: Environmental impact of cold seeps in biogeochemical cycles
 description: How does seeping methane influence the water column ecosystems?
-img: assets/img/12.jpg
+img: assets/img/cage.jpg
 importance: 1
 category: work
 related_publications: true
