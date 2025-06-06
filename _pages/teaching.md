@@ -7,6 +7,8 @@ nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+- GEO-2010-Marine Geology | UiT-IG | Lecturer on oceanography and marine biogeochemistry
+- GEO-3118-Environmental Geology | UiT-IG | Laboratory teaching and seminar lectures: Introduction to marine systems, climate systems and climate change, coastal pollution, and oil spill
+- GEO-2008-Geochemistry | UiT-IG | Laboratory Teaching  
+- Middle East Technical University, Institute of Marine Sciences: Summer schools and laboratory teaching 
 
-Organize your courses by years, topics, or universities, however you like!
