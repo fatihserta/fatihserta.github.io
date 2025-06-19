@@ -410,6 +410,11 @@ ninja.data = [{
           description: "How does seeping methane influence the water column ecosystems?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-interactive-learning-models-for-anthropogenic-climate-change-and-global-carbon-cycle",
+          title: 'Interactive learning models for anthropogenic climate change and global carbon cycle',
+          description: "The future of the global climate depends on how carbon emissions influence climate response through rising atmospheric CO₂ levels and resulting surface warming",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
