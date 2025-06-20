@@ -7,8 +7,10 @@ nav: true
 nav_order: 4
 ---
 
-- GEO-2010-Marine Geology, UiT-IG, Oceanography and marine biogeochemistry
-- GEO-3118-Environmental Geology, UiT-IG, Seminars: Introduction to marine systems, climate systems and climate change, coastal pollution, and oil spill
-- GEO-2008-Geochemistry, UiT-IG, Laboratory Teaching  
-- Middle East Technical University, Institute of Marine Sciences: IMS summer school and laboratory teaching 
+- Oceanography and marine biogeochemistry (in UiT-IG's GEO-2010)
+- Introduction to marine cycles and climate systems 
+- Global carbon cycles and climate change
+- Coastal pollution and oil spill 
+- Environmental geology and geochemistry (in UiT-IG's GEO-2008 and GEO-3118)
+- Marine analytical chemistry (in UiT-IG's GEO-2008 and METU-IMS's Marine Laboratory) 
 
