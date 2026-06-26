@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Muhammed Fatih Sert
+      value: Fatih Sert
     - name: Current address
       value: Oslo / Norway
     - name: Languages
@@ -29,9 +29,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Guest researcher
+      institution: University of Oslo
+      year: 2026 - present
+      description:
+        
     - title: Researcher & WP Leader
       institution: UiT-The Arctic University of Norway
-      year: 2022 - Present
+      year: 2022 - 2026
       description:
         - EMAN7 – Environmental impact of methane seepage and sub-seabed characterization at LoVe-Node 7 <a href="https://site.uit.no/eman7/"</a>
         
